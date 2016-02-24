@@ -2,7 +2,7 @@
   "name": "redux-falsy",
   "description": "Drop falsy values that have been dispatched into redux",
   "repository": "git://github.com/ashaffer/redux-falsy.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
